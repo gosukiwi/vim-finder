@@ -1,0 +1,11 @@
+*finder.txt*  Quick Vim grep for search in project
+
+This plugin is a simple wrapper around :vimgrep. It allows you to search for a
+regular expression in all the files in the current project (a.k.a working 
+directory).
+
+Mappings:
+<Leader>g   or    <Plug>FinderGrep
+    Execute grep among all files
+
+This plugins doesn't have any commands or settings
